@@ -1,0 +1,25 @@
+GET https://laravel8-rest-api.test/api/posts
+
+###
+
+POST https://laravel8-rest-api.test/api/posts
+Content-Type: application/json
+
+{
+    "title": "title #4",
+    "content": "My text for post # 4"
+}
+
+###
+
+PUT https://laravel8-rest-api.test/api/posts/6
+Content-Type: application/json
+
+{
+    "title": "title #4",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam ut venenatis tellus in metus vulputate. Ut tortor pretium viverra suspendisse. "
+}
+
+###
+
+DELETE https://laravel8-rest-api.test/api/posts/9
