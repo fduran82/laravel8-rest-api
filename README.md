@@ -24,5 +24,5 @@ Happy Coding!  :computer:  See you all! Bye  👋
 ```diff
 + Fidel Duran Aguiar.
 ```
-[fidelduran.com](https://fidelduran.com)
+
 <p align="center"><a href="https://fidelduran.com" target="_blank"><img width="250" src="https://fidelduran.com/images/logos/logo-yellow.svg"></a></p>
